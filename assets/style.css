@@ -4,30 +4,47 @@
 }
 header{
     background-color:aqua;
-    
-    
-    
-
-}
+    position:fixed;
+    text-align:center;
+    top:0;
+    Width:100%;
+  }
 H1{
     text-align:center;
     font-size: 52pt;
 
 }
+#links {
+    text-align:right;
+    margin-right:20px
 
-li {
+}
+
+.li-1 {
     display:inline;
     font-size: 20pt;
-    word-spacing:
+    text-align: right;
  
 
 
 
 }
 
-Body{
-    background-color:aquamarine;
+body {
+ position: relative;
+   background-color:aquamarine;
+  top:100px;
+  
+  
+  
+  
 }
+
 footer{
     background-color:salmon;
+    Margin-top: 1000px;
+}
+img {
+
+
 }
