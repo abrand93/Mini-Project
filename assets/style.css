@@ -1,0 +1,33 @@
+*{
+    Margin: 0;
+    padding:0;
+}
+header{
+    background-color:aqua;
+    
+    
+    
+
+}
+H1{
+    text-align:center;
+    font-size: 52pt;
+
+}
+
+li {
+    display:inline;
+    font-size: 20pt;
+    word-spacing:
+ 
+
+
+
+}
+
+Body{
+    background-color:aquamarine;
+}
+footer{
+    background-color:salmon;
+}
