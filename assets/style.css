@@ -41,12 +41,6 @@ body {
 footer {
     background-color:salmon;
     Position: relative;
-    
-
-
- 
-    
-    
 }
 form, span {
     position: relative;
@@ -56,9 +50,6 @@ input , #send , img {
  margin-top:5px;   
 
 }
-button {
-    height: 60px;
-    width: 100px;
+figcaption{
     font-size: 30pt;
-    color:red;
-}
+} 
