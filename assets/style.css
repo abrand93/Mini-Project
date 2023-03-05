@@ -1,6 +1,7 @@
 *{
     Margin: 0;
     padding:0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 header{
     background-color:aqua;
@@ -53,3 +54,6 @@ input , #send , img {
 figcaption{
     font-size: 30pt;
 } 
+a{
+    text-decoration: none;
+}
